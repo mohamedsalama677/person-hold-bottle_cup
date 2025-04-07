@@ -13,7 +13,7 @@ This project applies a pre-trained object detection model to identify and detect
 ## Files
 
 - `The_main_notebook.ipynb`: Contains the full implementation of the detection pipeline and result visualization.
-- Installation steps are included in the installation.ipynb to help set up the environment.
+
 
 ## Sample Outputs
 
